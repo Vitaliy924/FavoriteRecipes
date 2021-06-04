@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FavoriteRecipes</string>
+    <string-array name="type">
+        <item>balanced</item>
+        <item>high-protein</item>
+        <item>high-fiber</item>
+        <item>low-fat</item>
+        <item>low-carb</item>
+        <item>low-sodium</item>
+    </string-array>
+</resources>
